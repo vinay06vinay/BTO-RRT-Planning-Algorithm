@@ -65,7 +65,7 @@ The results and testing on different maps can be viewed from results folder. The
 
 The below Video shows how the turtlebot moves in an optimal path derived from the algorithm.
 <p align="center">
-<img width="40%" alt="Result Video" src="results/gazebo_video.gif"><br>
+<img width="50%" alt="Result Video" src="results/gazebo_video.gif"><br>
 <em>Figure: BTO-RRT Planning in 3-D</em>
 </p>
 
